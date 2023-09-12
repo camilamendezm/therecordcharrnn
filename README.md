@@ -1,2 +1,1 @@
-# therecordcharrnn
-culturizando charrnn con boygenius
+aqui intentando generar texto con charrnn
